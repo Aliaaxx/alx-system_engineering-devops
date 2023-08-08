@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 'Ac' > 'Ze'
+sed 'A' 'c' > 'Z' 'e'
